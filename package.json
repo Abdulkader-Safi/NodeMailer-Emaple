@@ -1,0 +1,19 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "Abdulkader Safi",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^6.4.15"
+  }
+}
